@@ -1,0 +1,10 @@
+Groceries|101|Basmati_Rice_5kg|1850|15
+Groceries|102|Cooking_Oil_3L|1620|30
+Dairy|103|Fresh_Milk_1L|220|50
+Bakery|104|Whole_Wheat_Bread|160|40
+Dairy|105|Farm_Eggs_Dozen|340|35
+Electronics|201|Wireless_Mouse|2400|14
+Electronics|202|Mechanical_Keyboard|6500|10
+Electronics|203|USB_C_Fast_Charger|1950|20
+Beverages|301|Green_Tea_Pack|450|40
+Snacks|302|Dark_Chocolate_Bar|380|45
